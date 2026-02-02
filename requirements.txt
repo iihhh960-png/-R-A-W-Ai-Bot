@@ -1,4 +1,3 @@
 python-telegram-bot
-duckduckgo-search
+google-generativeai
 flask
-
